@@ -1,3 +1,8 @@
+/*
+    Author : Atonu Ghosh
+    About : Hacker Rank 30 Days of Code, Day 6 Solution
+    Date : 9th Dec 2016
+*/
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
