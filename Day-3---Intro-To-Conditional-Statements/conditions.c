@@ -1,3 +1,7 @@
+/*
+    Author : Atonu Ghsoh
+    About : Hacker Rank 30 Days of Code, Day 3 Solution
+*/
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
