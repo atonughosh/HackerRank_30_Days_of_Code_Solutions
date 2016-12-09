@@ -1,3 +1,9 @@
+/*
+    Author : Atonu Ghsoh
+    About : Hacker Rank 30 Days of Code, Day 7 Solution
+    Date : 9th Dec 2016
+*/
+//Program to reverse an array
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
