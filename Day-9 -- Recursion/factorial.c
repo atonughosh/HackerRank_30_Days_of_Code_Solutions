@@ -1,3 +1,8 @@
+/*
+    About : Hacker Rank 30 Days of Code Challenge, Day 9
+    Date : 11th Dec 2016
+    Author : Atonu Ghosh
+*/
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
